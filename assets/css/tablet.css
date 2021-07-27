@@ -1,0 +1,13 @@
+.plans-container-slider{
+    overflow-x: hidden;
+}
+.ramdom_container{
+    width: 80%;
+}
+.product-card--container{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: unset;
+    width:930px;
+    margin: 0 auto;
+}
